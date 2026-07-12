@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Tokgrowthpartner</h3>
+            <h3 className="text-xl font-bold mb-4">TikTrendSolutions</h3>
             <p className="text-purple-200 mb-4">
               Your premier TikTok marketing partner helping brands achieve explosive growth.
             </p>
@@ -91,7 +91,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-purple-600 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-purple-300 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} Tokgrowthpartner. All rights reserved.
+            © {new Date().getFullYear()} TikTrendSolutions. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <Link to="/privacy" className="text-purple-300 hover:text-white text-sm transition-colors">

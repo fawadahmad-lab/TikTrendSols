@@ -38,7 +38,7 @@ const Home = () => {
               Transform Your <span className="text-purple-600">TikTok Shop</span> Performance
             </h1>
             <p className="text-lg text-gray-600 mb-8">
-              We help USA and UK brands dominate TikTok Shop with strategic management, viral marketing, and data-driven optimization.
+              We help US brands dominate TikTok Shop with strategic management, viral marketing, and data-driven optimization.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <motion.button

@@ -41,7 +41,7 @@ export default function Header() {
             <Link to="/" className="flex items-center">
               <FaTiktok className="text-2xl text-pink-400 mr-2" />
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-200 to-pink-200">
-                Tokgrowth
+                TikTrend
               </span>
             </Link>
           </motion.div>
